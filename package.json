@@ -22,10 +22,7 @@
     "url": "https://github.com/1859W/.vex-compiler/issues"
   },
   "homepage": "https://github.com/1859W/.vex-compiler#readme",
-  "config": {
-    "entryPoint": "./src/main.cpp",
-    "watchDir": "./src",
-    "outputDir": "./build",
-
+  "dependencies": {
+    "dotenv": "^6.1.0"
   }
 }
