@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/1859W/.vex-compiler/issues"
   },
-  "homepage": "https://github.com/1859W/.vex-compiler#readme"
+  "homepage": "https://github.com/1859W/.vex-compiler#readme",
+  "config": {
+    "entryPoint": "./src/main.cpp",
+    "watchDir": "./src",
+    "outputDir": "./build",
+
+  }
 }
