@@ -1,0 +1,25 @@
+{
+  "name": "vex-compiler",
+  "version": "0.0.1",
+  "description": "a compiler for .vex files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1859W/.vex-compiler.git"
+  },
+  "keywords": [
+    "vex",
+    "robotics",
+    "v5",
+    "V5"
+  ],
+  "author": "alexa griffin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1859W/.vex-compiler/issues"
+  },
+  "homepage": "https://github.com/1859W/.vex-compiler#readme"
+}
