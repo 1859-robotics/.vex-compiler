@@ -3,6 +3,12 @@ compiles a folder to a .vex file because the current VCS kinda really sucks...
 
 That and atom is fucking amazing
 
+# Install:
+```
+git clone yada yada yada...
+npm install
+npm start
+```
 ----
 
 .env stuff:
